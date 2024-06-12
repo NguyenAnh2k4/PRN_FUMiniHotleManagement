@@ -27,7 +27,7 @@
         <TextBox x:Name="txtPassword" Canvas.Left="400" TextWrapping="Wrap" Text="" Canvas.Top="148" Width="166" HorizontalAlignment="Left" VerticalAlignment="Center"/>
         <TextBlock Canvas.Left="317" TextWrapping="Wrap" Text="Password" Canvas.Top="150" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <Button Content="ADD" Canvas.Left="172" Canvas.Top="247" Height="27" Width="69" Click="Button_Click"/>
-        <Button x:Name="btnUpdate" Content="UPDATE" Canvas.Left="317" Canvas.Top="247" Height="27" Width="69" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnUpdate_Click"/>
-        <Button x:Name="btnDelete" Content="DELETE" Canvas.Left="448" Canvas.Top="247" Height="27" Width="70" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnDelete_Click"/>
+        <Button x:Name="btnUpdate" Content="UPDATE" Canvas.Left="366" Canvas.Top="247" Height="27" Width="68" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="DELETE" Canvas.Left="551" Canvas.Top="247" Height="27" Width="70" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnDelete_Click"/>
     </Canvas>
 </Window>

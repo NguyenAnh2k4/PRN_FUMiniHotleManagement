@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|d:\\ki 5\\prn211\\new folder (2)\\prn_fuminihotlemanagement\\fuminihotelsystem\\wpfapp\\listroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\listroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\wpfapp\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\dataaccesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D256C0D-164E-4E2E-AFED-B876C145FAF7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A13D7D-0F54-481A-BE5B-3C0E93D21BED}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\wpfapp\\bookdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE44E705-4827-4640-AFDE-AD8D86B3535F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\bookdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C033FD7B-FC21-4D18-BE69-79F2794AB47B}|Repositories\\Repositories.csproj|D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\repositories\\bookingdetailrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C033FD7B-FC21-4D18-BE69-79F2794AB47B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingdetailrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListRoomWindow.xaml",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\ListRoomWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\ListRoomWindow.xaml",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\ListRoomWindow.xaml",
+              "RelativeToolTip": "WpfApp\\ListRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T05:31:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\ManageCustomerWindow.xaml",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "WpfApp\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T05:30:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T05:27:55.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomDAO.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomDAO.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:10.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:09.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingReservationDAO.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:09.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:06.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:05.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:04.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:26:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDetailsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\BookDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\BookDetailsWindow.xaml.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\WpfApp\\BookDetailsWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\BookDetailsWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:25:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingDetailRepositories.cs",
+              "DocumentMoniker": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\Repositories\\BookingDetailRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingDetailRepositories.cs",
+              "ToolTip": "D:\\Ki 5\\PRN211\\New folder (2)\\PRN_FUMiniHotleManagement\\FUMiniHotelSystem\\Repositories\\BookingDetailRepositories.cs",
+              "RelativeToolTip": "Repositories\\BookingDetailRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:33:41.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
